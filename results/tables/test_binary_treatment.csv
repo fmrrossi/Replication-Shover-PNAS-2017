@@ -1,0 +1,8 @@
+"coding","estimate","treated_state_years","N"
+"Bachhuber et al. (2014), reported","-24.8 (-37.5, -9.5)",NA,NA
+"Fractional (paper)","-21.1 (-35.7, -3.0)",118,575
+"Fractional, Arizona 2010 = 0","-21.0 (-35.7, -3.0)",117,575
+"Binary: any part of the year","-19.4 (-33.1, -2.9)",118,575
+"Binary: any part of the year, Arizona 2010 = 0","-20.0 (-34.2, -2.8)",117,575
+"Binary: at least half of the year","-19.3 (-33.1, -2.7)",112,575
+"Binary: full years only","-22.8 (-35.5, -7.6)",107,575

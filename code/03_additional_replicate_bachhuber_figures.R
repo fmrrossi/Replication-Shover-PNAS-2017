@@ -108,7 +108,7 @@ p <- ggplot(fig2_estimates, aes(x = years_after, y = est)) +
   geom_line() +
   geom_point(size = 2) +
   scale_x_continuous(breaks = 1:6, labels = fig2_estimates$label) +
-  scale_y_continuous(limits = c(-60, 5), breaks = seq(-60, 0, 20)) +
+  scale_y_continuous(limits = c(-60, 20), breaks = seq(-60, 20, 20)) +
   labs(title = "Replication of Bachhuber et al. (2014) Figure 2",
        x = "Years After Law Implementation, No.", y = "Difference in Age-Adjusted Mortality Rate, %") +
   theme_minimal()

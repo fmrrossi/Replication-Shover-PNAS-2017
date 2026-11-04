@@ -1,8 +1,10 @@
-# Replication of Shover et al. (2019) and Bachhuber et al. (2014): medical cannabis laws and opioid overdose mortality
+# Replication of Shover et al. (2019) 
 
 This repository replicates:
 
 - **Shover, C. L., Davis, C. S., Gordon, S. C., & Humphreys, K. (2019).** "Association between medical cannabis laws and opioid overdose mortality has reversed over time." *Proceedings of the National Academy of Sciences*, 116(26), 12624–12626. https://doi.org/10.1073/pnas.1903434116
+
+As Shover et al. (2019) is an extension of another paper, I also replicate the original paper:
 - **Bachhuber, M. A., Saloner, B., Cunningham, C. O., & Barry, C. L. (2014).** "Medical cannabis laws and opioid analgesic overdose mortality in the United States, 1999–2010." *JAMA Internal Medicine*, 174(10), 1668–1673.
 
 Bachhuber et al. found that state medical cannabis laws were associated with 24.8% lower opioid analgesic overdose mortality over 1999–2010. Using the same model and data through 2017, Shover et al. found that the association reversed to +22.7%. I replicate Table 1 and Figure 1 of Shover et al. and Figures 1 and 2 of Bachhuber et al. I do this twice: with the authors' replication data, and with data I downloaded myself from publicly available sources
